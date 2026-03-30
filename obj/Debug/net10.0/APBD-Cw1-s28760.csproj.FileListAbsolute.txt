@@ -1,0 +1,14 @@
+C:\Users\aadvm\RiderProjects\APBD-Cw1-s28760\APBD-Cw1-s28760\bin\Debug\net10.0\APBD-Cw1-s28760.exe
+C:\Users\aadvm\RiderProjects\APBD-Cw1-s28760\APBD-Cw1-s28760\bin\Debug\net10.0\APBD-Cw1-s28760.deps.json
+C:\Users\aadvm\RiderProjects\APBD-Cw1-s28760\APBD-Cw1-s28760\bin\Debug\net10.0\APBD-Cw1-s28760.runtimeconfig.json
+C:\Users\aadvm\RiderProjects\APBD-Cw1-s28760\APBD-Cw1-s28760\bin\Debug\net10.0\APBD-Cw1-s28760.dll
+C:\Users\aadvm\RiderProjects\APBD-Cw1-s28760\APBD-Cw1-s28760\bin\Debug\net10.0\APBD-Cw1-s28760.pdb
+C:\Users\aadvm\RiderProjects\APBD-Cw1-s28760\APBD-Cw1-s28760\obj\Debug\net10.0\APBD-Cw1-s28760.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aadvm\RiderProjects\APBD-Cw1-s28760\APBD-Cw1-s28760\obj\Debug\net10.0\APBD-Cw1-s28760.AssemblyInfoInputs.cache
+C:\Users\aadvm\RiderProjects\APBD-Cw1-s28760\APBD-Cw1-s28760\obj\Debug\net10.0\APBD-Cw1-s28760.AssemblyInfo.cs
+C:\Users\aadvm\RiderProjects\APBD-Cw1-s28760\APBD-Cw1-s28760\obj\Debug\net10.0\APBD-Cw1-s28760.csproj.CoreCompileInputs.cache
+C:\Users\aadvm\RiderProjects\APBD-Cw1-s28760\APBD-Cw1-s28760\obj\Debug\net10.0\APBD-Cw1-s28760.dll
+C:\Users\aadvm\RiderProjects\APBD-Cw1-s28760\APBD-Cw1-s28760\obj\Debug\net10.0\refint\APBD-Cw1-s28760.dll
+C:\Users\aadvm\RiderProjects\APBD-Cw1-s28760\APBD-Cw1-s28760\obj\Debug\net10.0\APBD-Cw1-s28760.pdb
+C:\Users\aadvm\RiderProjects\APBD-Cw1-s28760\APBD-Cw1-s28760\obj\Debug\net10.0\APBD-Cw1-s28760.genruntimeconfig.cache
+C:\Users\aadvm\RiderProjects\APBD-Cw1-s28760\APBD-Cw1-s28760\obj\Debug\net10.0\ref\APBD-Cw1-s28760.dll
